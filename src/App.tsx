@@ -6,6 +6,7 @@ import { Gallery } from "./components/Gallery"
 import { ContactList } from "./components/ContactList"
 
 
+
 function App() {
     return (
         <div id="App">
